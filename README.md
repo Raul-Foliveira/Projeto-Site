@@ -1,2 +1,2 @@
 # Projeto-Site
-Projeto de site estático com foco em treinos de Html e Css.
+Projeto de site estático com foco em treinos de HTML e CSS.
